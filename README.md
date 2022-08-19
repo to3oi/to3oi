@@ -7,6 +7,5 @@ Platform : Nintendo Switch
 [ギミックフィールド](https://github.com/letconst/gimmick-field-public)
 
 ---
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?peng=false&username=tomoi)
+![](https://github-stats-evirunurm.vercel.app/api/stats.js?peng=false&username=tomoi)　![](https://github-stats-evirunurm.vercel.app/api/languages.js?pie=false&username=tomoi) 
 
-![](https://github-stats-evirunurm.vercel.app/api/languages.js?pie=false&username=tomoi)
