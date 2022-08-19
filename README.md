@@ -10,9 +10,7 @@ Platform : Nintendo Switch
 
 
 ---
-↓基本開発リポジトリがローカルなため反映されません↓
 
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?peng=false&username=tomoi)　![](https://github-stats-evirunurm.vercel.app/api/languages.js?pie=false&username=tomoi) 
-
-[![](https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=dark&username=tomoi)](https://github.com/anuraghazra/github-readme-stats)
-
+[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
