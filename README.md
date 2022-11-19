@@ -1,5 +1,9 @@
 ### 最近の開発履歴
 
+Platform : Hololens 2
+
+[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=tomoi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/tomoi/HoloDive-Hololens-Repository-Public)
+
 Platform : Nintendo Switch
 
 [![天上宮殿の騎士](https://github-readme-stats.vercel.app/api/pin/?username=letconst&repo=knight-of-heavenly-palace-public)](https://github.com/letconst/knight-of-heavenly-palace-public)
