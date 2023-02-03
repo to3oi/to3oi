@@ -6,7 +6,8 @@ Platform : Hololens 2　2022/10/05 ~
 
 Platform : Windows 2022/4/26 ～  2022/9/30
 
-https://booth.pm/ja/items/4153219
+<a href="https://booth.pm/ja/items/4153219"><img src="https://asset.booth.pm/static-images/banner/200x40_01.png"></a>
+
 
 Platform : Nintendo Switch 2022/4/22 ～  2022/9/24
 
