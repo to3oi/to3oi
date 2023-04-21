@@ -3,7 +3,7 @@
 Platform : Windows / Azure Kinect DK<br>
 DevelopmentPeriod : 2023/04/21 ~ 
 
-[![---]([https://github-readme-stats.vercel.app/api/pin/?[username=tomoi&repo=HoloDive-Hololens-Repository-Public](https://github.com/tomoi/MsKinect2023))]([https://github.com/tomoi/HoloDive-Hololens-Repository-Public](https://github.com/tomoi/MsKinect2023)](https://github.com/tomoi/MsKinect2023))
+[![---](https://github-readme-stats.vercel.app/api/pin/?username=tomoi&repo=MsKinect2023)](https://github.com/tomoi/MsKinect2023)
 
 Platform : Hololens 2<br>
 DevelopmentPeriod : 2022/10/05 ~ 2023/2/11
