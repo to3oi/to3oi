@@ -3,12 +3,12 @@
 Platform : Windows / Azure Kinect DK<br>
 DevelopmentPeriod : 2023/04/21 ~ 
 
-[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=tomoi&repo=EnigMouse_Public)]([https://github.com/tomoi/MsKinect2023](https://github.com/tomoi/EnigMouse_Public))
+[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)]([https://github.com/to3oi/MsKinect2023](https://github.com/to3oi/EnigMouse_Public))
 
 Platform : Hololens 2<br>
 DevelopmentPeriod : 2022/10/05 ~ 2023/2/11
 
-[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=tomoi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/tomoi/HoloDive-Hololens-Repository-Public)
+[![HoloDive](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=HoloDive-Hololens-Repository-Public)](https://github.com/to3oi/HoloDive-Hololens-Repository-Public)
 
 Platform : Windows<br>
 DevelopmentPeriod : 2022/4/26 ~ 2022/9/30
@@ -29,6 +29,6 @@ DevelopmentPeriod : 2021/10/8 ~ 2022/2/9
 
 ---
 
-[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoi/tomoi/main/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
