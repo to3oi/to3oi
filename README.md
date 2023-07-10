@@ -3,7 +3,7 @@
 Platform : Windows / Azure Kinect DK<br>
 DevelopmentPeriod : 2023/04/21 ~ 
 
-[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)]([https://github.com/to3oi/MsKinect2023](https://github.com/to3oi/EnigMouse_Public))
+[![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
 
 Platform : Hololens 2<br>
 DevelopmentPeriod : 2022/10/05 ~ 2023/2/11
