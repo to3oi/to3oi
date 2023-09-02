@@ -1,4 +1,8 @@
 ### 最近の開発履歴
+Platform : Windows / Azure Kinect DK<br>
+DevelopmentPeriod : 2023/06/19 ~
+
+[![KinectImageConvertSender](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=KinectImageConvertSender)](https://github.com/to3oi/KinectImageConvertSender)
 
 Platform : Windows / Azure Kinect DK<br>
 DevelopmentPeriod : 2023/04/21 ~ 
