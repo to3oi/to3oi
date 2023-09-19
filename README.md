@@ -1,10 +1,11 @@
 ### 最近の開発履歴
 Platform : Windows / Azure Kinect DK<br>
-DevelopmentPeriod : 2023/06/19 ~
+DevelopmentPeriod : 2023/06/19 ~ 
 
-[![KinectImageConvertSender](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=KinectImageConvertSender)](https://github.com/to3oi/KinectImageConvertSender)
+[![EnigMouseSendMaster](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendMaster)](https://github.com/to3oi/EnigMouseSendMaster)
+[![EnigMouseSendClient](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouseSendClient)](https://github.com/to3oi/EnigMouseSendClient)
 
-Platform : Windows / Azure Kinect DK<br>
+Platform : Windows <br>
 DevelopmentPeriod : 2023/04/21 ~ 
 
 [![EnigMouse](https://github-readme-stats.vercel.app/api/pin/?username=to3oi&repo=EnigMouse_Public)](https://github.com/to3oi/EnigMouse_Public)
@@ -32,7 +33,6 @@ DevelopmentPeriod : 2021/10/8 ~ 2022/2/9
 
 
 ---
-
-[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=to3oi&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=to3oi&layout=compact&theme=nord )](https://github.com/anuraghazra/github-readme-stats)
+[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/to3oi/to3oi/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
